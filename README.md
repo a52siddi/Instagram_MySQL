@@ -1,1 +1,1 @@
-# Instagram_MySQL
+MySQL Instagram clone.
